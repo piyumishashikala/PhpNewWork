@@ -4,7 +4,7 @@
  * User: Piyumi Shashikala
  * Date: 6/17/2019
  * Time: 9:38 AM
- */?>
+ */ ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -20,9 +20,14 @@
 </html>
 
 <form action="webpage.php" method="post" id="nameform">
-    first name:<input type="text" name="frame"><br>
-last name:<input type="text" name="lrame"><br>
-    <button type="submit" form="nameform" value="submit">submit</button>
-    <button type="reset" value="reset">reset
 
+    first name:
+    <input type="text" name="frame">
+    <br>
+    last name:
+    <input type="text" name="lrame">
+    <br>
+
+    <button type="submit" form="nameform" value="submit">submit</button>
+    <button type="reset" value="reset">reset</button>
 </form>
