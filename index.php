@@ -100,7 +100,7 @@
     });
     $("#txtcid").keyup(function () {
         if($("#txtcid").val().length>4){
-            alert("Hariyata Balala Gahapan")
+            alert("invalied ")
         }
     })
 
